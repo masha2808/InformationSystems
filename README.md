@@ -1,0 +1,1 @@
+Відповіді на питання знаходяться у гілці docs/answers. Створено Pull request з гілки docs/answers у гілку master.
